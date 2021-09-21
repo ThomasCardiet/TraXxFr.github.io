@@ -20,6 +20,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a6cc1ce-2483-42c0-bde8-2cc6d4d33488" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/home-page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/.idea/exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/css/style-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/css/style-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/css/style-3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/css/style-4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/css/style-5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/css/style-6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/css/style-7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/css/style-8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/bedroom-arles-van-gogh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/blueberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/book-of-kells.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/business.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/cafe-terrace-at-night-van-gogh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/cliffs-of-moher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/dublin-zoo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/guinness-storehouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/happy-users.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/lemons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/national-aquatic-centre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/programmer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/starry-night-van-gogh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/visual-data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/watermelon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/assets/img/yellow-house-van-gogh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/page-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/page-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/page-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/page-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/page-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/page-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/page-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/page-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wordpress/wp-content/themes/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentynineteen/404.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentynineteen/archive.php" afterDir="false" />
@@ -365,6 +413,7 @@
       <change afterPath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentytwentyone/template-parts/header/site-nav.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentytwentyone/template-parts/post/author-bio.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wordpress/wp-content/themes/wordpress-TraXxFr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../contact.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site_fil_rouge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../site_fil_rouge/index.html" afterDir="false" />
@@ -424,7 +473,7 @@
       <workItem from="1631630572582" duration="1399000" />
       <workItem from="1631694694373" duration="458000" />
       <workItem from="1631802485115" duration="24000" />
-      <workItem from="1632227923918" duration="3644000" />
+      <workItem from="1632227923918" duration="3999000" />
     </task>
     <servers />
   </component>
